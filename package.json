@@ -1,0 +1,23 @@
+{
+  "name": "karma-twig-preprocessor",
+  "version": "0.0.1",
+  "description": "Preprocessor to compile twig on the fly.",
+  "homepage": "https://github.com/c0rrupt/karma-twig-preprocessor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c0rrupt/karma-twig-preprocessor.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "twig"
+  ],
+  "author": {
+    "name": "Vitaly Zhloba",
+    "email": "vitaly.zhloba@gmail.com"
+  },
+  "dependencies": {
+    "twig": "^0.7.2"
+  }
+}
